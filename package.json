@@ -1,0 +1,24 @@
+{
+  "name": "excel_to_json_for_i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a062670/excel_to_json_for_i18n.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a062670/excel_to_json_for_i18n/issues"
+  },
+  "homepage": "https://github.com/a062670/excel_to_json_for_i18n#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "xlsx": "^0.13.3"
+  }
+}
