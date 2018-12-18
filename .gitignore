@@ -3,5 +3,4 @@ node_modules/
 
 outputJson/
 inputJson/
-input.xlsx
-output.xlsx
+*.xlsx
