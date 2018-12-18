@@ -2,7 +2,7 @@ const fs = require("fs");
 const XLSX = require("xlsx");
 
 let inputFile = "input.xlsx";
-let outputDir = "output";
+let outputDir = "outputJson";
 
 const workbook = XLSX.readFile(inputFile);
 // 取得第一個sheet

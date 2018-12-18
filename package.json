@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "e2j": "node e2j.js",
+    "j2e": "node j2e.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
